@@ -1,4 +1,4 @@
-# Projeto Event Platform.
+# Projeto Event Platform
 
 Projeto desenvolvido durante o Curso Ignite Lab da Rocketseat.
 
