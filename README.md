@@ -1,6 +1,6 @@
 # Projeto Event Platform
 
-Projeto desenvolvido durante o Curso Ignite Lab da Rocketseat.
+Projeto desenvolvido durante o curso Ignite Lab da Rocketseat.
 
 Tecnologias utilizadas: React + TypeScript.
 
